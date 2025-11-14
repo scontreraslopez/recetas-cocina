@@ -6,7 +6,6 @@ Se trata de un repositorio demo en el que trabajaremos de manera colaborativa co
 
 ## Cómo colaborar - reglas
 
-Para colaborar lo que haremos será un fork del proyecto.
+Para colaborar lo que haremos será un fork del proyecto y pull request. Por favor, intentemos respestar los commits semánticos para que quede lo más homogéneo posible.
 
-
-
+¡Gracias!
