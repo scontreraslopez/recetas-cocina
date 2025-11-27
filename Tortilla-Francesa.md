@@ -1,4 +1,4 @@
-# Receta de Paella
+# Receta de Tortilla Francesa
 
 **Autor:** Jesus M. Nuñez Fernandez
 
@@ -17,3 +17,4 @@
 3. Vierte la mezcla de huevo en la sartén caliente.
 4. Mueve ligeramente la sartén y, a medida que se cuaja, desliza el huevo de la superficie hacia los bordes.
 5. Cuando la tortilla esté casi cuajada pero aún tierna, dóblala por la mitad o en tercios con una espátula.
+6. Servir la tortilla.
