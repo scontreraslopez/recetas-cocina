@@ -1,4 +1,3 @@
-@@ -0,0 +1,33 @@
 # Receta de Bizcocho sin gluten
 
 **Autor:** Iris Rodriguez
